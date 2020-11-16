@@ -1,0 +1,11 @@
+[en]
+  languageCode = "en"
+  # Uncomment for multilingual sites, and move the default content into corresponding sub-folder.
+  contentDir = "content/en"
+  languageName = "英文"
+# Uncomment for multilingual sites, and customize the following config.
+ [zh]
+  languageCode = "zh"
+  contentDir = "content/zh"
+  title = "1OPS"
+  languageName = "中文"
